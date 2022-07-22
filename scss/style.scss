@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Roboto&display=swap');
+//UTILIDADES = VARIABLES, MIXIN, FUNCIONES
+@import 'utilities/variables';
+//BASE = RESET , TIPOGRAFIAS
+@import 'base/reset';
+//COMPONENTS= CODIGO PARTICIONADO DE CADA SECCION O PAGE/VIEW
+@import 'components/header';
+@import 'components/about';
+@import 'components/personajes';
+@import 'components/videos';
+@import 'components/footer';
+@import 'components/mediaqueries';
+
+
+
+
+
+
+
+
+
